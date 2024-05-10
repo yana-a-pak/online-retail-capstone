@@ -11,10 +11,8 @@
 <br>
 📃 [PDF](https://drive.google.com/file/d/1FAsZK44yCUwdi-767ce-NH84uJ6V-xKc/view?usp=sharing)
 <br>
-
 <br>
-[Visualization by Looker Studio]
-(https://lookerstudio.google.com/u/0/reporting/54e10dff-d85c-4f0a-b184-bb4622b927f5/page/tEnnC)
+📊 [Visualization by Looker Studio](https://lookerstudio.google.com/u/0/reporting/54e10dff-d85c-4f0a-b184-bb4622b927f5/page/tEnnC)
 <br>
 
 ![Dashboard1](https://github.com/yana-a-pak/online-retail-capstone/blob/main/capstone/image/dashboard1.jpg)
