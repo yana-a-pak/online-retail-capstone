@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: capstonedw1
+    database: bigquery
+    schema: raw_invoicesa
+    tables:
+      - name: retails
+     
+      

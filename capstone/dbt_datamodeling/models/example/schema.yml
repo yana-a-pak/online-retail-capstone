@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: customers
+    description: "transformed table from source data"
+    columns:
+      - name: CustomerID
+        description: "The data order_id shouldn't be null"
+        tests:
+          - not_null
+        
+
+      
+
+
+
+  
