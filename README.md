@@ -19,6 +19,6 @@
 <br>
 
 
-![Dashboard1](https://github.com/yana-a-pak/online-retail-capstone/tree/main/capstone/image)
+![Dashboard1](https://github.com/yana-a-pak/online-retail-capstone/blob/main/capstone/image/dashboard1.jpg)
 
 ![Dashboard2](https://github.com/yana-a-pak/online-retail-capstone/blob/main/capstone/image/dashboard2.jpg)
