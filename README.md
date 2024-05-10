@@ -17,5 +17,5 @@
 [Visualization by Looker Studio]
 (https://lookerstudio.google.com/u/0/reporting/54e10dff-d85c-4f0a-b184-bb4622b927f5/page/tEnnC)
 <br>
-![https://github.com/yana-a-pak/online-retail-capstone/tree/main/capstone/image]
-![https://github.com/yana-a-pak/online-retail-capstone/blob/main/capstone/image/dashboard2.jpg]
+![image] (https://github.com/yana-a-pak/online-retail-capstone/blob/main/capstone/image/dashboard1.jpg)
+![image] (https://github.com/yana-a-pak/online-retail-capstone/blob/main/capstone/image/dashboard2.jpg)
