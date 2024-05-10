@@ -5,13 +5,36 @@ models:
     description: "transformed table from source data"
     columns:
       - name: CustomerID
-        description: "The data order_id shouldn't be null"
+        description: "The data CustomerID shouldn't be null"
         tests:
           - not_null
-        
-
-      
 
 
+models:
+  - name: dim_customer
+    description: "collection customer data table"
+    columns:
+      - name: CustomerID
+        description: "The data CustomerID shouldn't be null"
+        tests:
+          - not_null        
+
+models:
+  - name: dim_product
+    description: "collection product data table"
+    columns:
+      - name: product_id
+        description: "The data product_id shouldn't be null"
+        tests:
+          - not_null 
+
+models:
+  - name: invoices
+    description: "transformed table from source data"
+    columns:
+      - name: CustomerID
+        description: "The data CustomerID shouldn't be null"
+        tests:
+          - not_null 
 
   
