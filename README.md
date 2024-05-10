@@ -1,6 +1,6 @@
 # Online-retail-Capstone 📝
 
-<b> Team Members: </b>  : Yanadade P. 178 | Thitiporn T. 179 | Nongnoot S. 183 | Patipan K. 189 | Varuncharee T. 201 | Supansa T. 205
+<b> Team Members: </b>  : Yanadade P. 178 | Thitiporn T. 179 | Nongnoot S. 183 | Patipan K. 189 | Varuncharee T. 201 | Supansa W. 205
 <br>
 <br>
 🖍 [Slide Presentation](https://docs.google.com/presentation/d/1-ndUm-t-4nSj2n8svBUDAiUHk4fWz5x_ZSynLhSO3Ns/edit#slide=id.p)
